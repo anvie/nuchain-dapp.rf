@@ -1,6 +1,6 @@
 # Nuchain Dapp
 
-This is [Reframe](https://github.com/ansvia/reframe) source for creating Nuchain Dapp.
+[Reframe](https://github.com/ansvia/reframe) source for creating Nuchain Dapp.
 
 ## Usage
 
